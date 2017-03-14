@@ -1,0 +1,4 @@
+<plugin>
+    <name>instance-registry-export</name>
+    <classname>instanceRegistry.export.plugin.Plugin</classname>
+</plugin>
